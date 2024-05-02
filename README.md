@@ -1,8 +1,9 @@
-# React + Vite
+# Load More Data Button
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/abhistark007/Load-More-Data-Button/assets/58290134/e6aea5e1-f46f-455c-ac4e-13223b9128d9
+
+
+
+
